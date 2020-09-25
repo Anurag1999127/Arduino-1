@@ -1,2 +1,2 @@
 # Arduino-1
-Simple LED program in Arduino
+Simple LED_LCD program in Arduino
